@@ -96,7 +96,7 @@ positions and formats content, text float around another elements (usually image
 
 ## Box model in CSS:
 
-![](D:\git-workplace\web-development-bootcamp\Notes\Picture1.png)
+![](dom.png)
 
 ## Border
 
