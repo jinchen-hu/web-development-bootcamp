@@ -157,8 +157,8 @@
 ## Object
 
 JS is not an OOP language
-![](js.png)
 
+![](js.png)
 ![](js2.png)
 
 ## Pattern matching
@@ -205,7 +205,7 @@ JS is not an OOP language
 ## DOM
 
 1. a standard for accessing documents: Document Object Model
-   ![](D:\git-workplace\web-development-bootcamp\Notes\dom.png)
+   ![](dom.png)
 2. a standard object model and programming interface for HTML. It defines: the HTML elements as objects, the properties of all HTML elements, the methods to access all HTML elements, the events for all HTML elements. In other words, DOM is a standard for how to get, change, add, or delete HTML elements
 3. In the DOM, all HTML elements are defined as objects:
 4. a property is a value that you can get or set
