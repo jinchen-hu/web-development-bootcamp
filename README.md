@@ -5,3 +5,5 @@
 #### [W3School](https://www.w3schools.com/)
 
 #### [CSS Zen Garden](http://www.csszengarden.com/)
+
+#### [Keegan Street Specificity Calculator](https://specificity.keegan.st/)
