@@ -29,6 +29,9 @@ selector: html element that you want to style
 * x: selects all &lt;x&gt; elements
 * x1, x2: selects all &lt;x1&gt; and &lt;x2&gt; elements
 * x1 x2: selects all &lt;x2&gt; inside &lt;x1&gt;
+* X1 + X2: Adjacent selector
+* X[attribute="value"]: Attribute selector
+* X:nth-of-type(n): nth of type
 * priorities: important! &gt; inline style &gt; id &gt; class &gt; tag &gt; \*
 * the bottommost style will overlap the former styles
 
