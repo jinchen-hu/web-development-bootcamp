@@ -157,9 +157,9 @@
 ## Object
 
 JS is not an OOP language
-![](D:\git-workplace\web-development-bootcamp\Notes\js.png)
+![](js.png)
 
-![](D:\git-workplace\web-development-bootcamp\Notes\js2.png)
+![](js2.png)
 
 ## Pattern matching
 
