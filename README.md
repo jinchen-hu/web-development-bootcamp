@@ -7,3 +7,7 @@
 #### [CSS Zen Garden](http://www.csszengarden.com/)
 
 #### [Keegan Street Specificity Calculator](https://specificity.keegan.st/)
+
+#### [CSS Font Stack](https://www.cssfontstack.com/)
+
+#### [Google Fonts](https://fonts.google.com/)
