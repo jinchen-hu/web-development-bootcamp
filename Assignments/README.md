@@ -5,3 +5,4 @@
 * [Forms](https://github.com/jinchen-hu/web-development-bootcamp/blob/master/Assignments/4-Froms-Ex.html)
 * [Selectors](https://github.com/jinchen-hu/web-development-bootcamp/tree/master/Assignments/5-Selectors)
 * [Tic Tac Toe Board](https://github.com/jinchen-hu/web-development-bootcamp/tree/master/Assignments/6-Tic-Tac-Toe-Board)
+* [Blog Form](https://github.com/jinchen-hu/web-development-bootcamp/tree/master/Assignments/7-Blog-Form)
