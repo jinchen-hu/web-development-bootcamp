@@ -66,7 +66,7 @@ selector: html element that you want to style
   lowercase: turn everything into lowercase
   capitalize: capitalizes the first letter of each word
 * text-indent: specifies the indentation of the first line
-* text-spacing: specifies the space between the characters
+* letter-spacing: specifies the space between the characters
 * word-spacing: specify the space between the words
 * line-height: specifies the space between lines
 
