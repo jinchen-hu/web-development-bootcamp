@@ -133,3 +133,4 @@ positions and formats content, text float around another elements (usually image
 * &lt;div&gt; &lt;/div&gt; used as a container for other html elements, to style blocks of content
   useful for style specifications
 * &lt;span&gt; &lt;/span&gt; used to style parts of the text
+
