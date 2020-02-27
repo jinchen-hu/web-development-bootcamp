@@ -8,3 +8,4 @@
 7. [Blog Form](https://github.com/jinchen-hu/web-development-bootcamp/tree/master/Assignments/7-Blog-Form)&nbsp;&nbsp;Above
 8. [Image Gallery](https://github.com/jinchen-hu/web-development-bootcamp/tree/master/Assignments/8-Image-Gallery)&nbsp;&nbsp;Bootstrap3--thumbnail, navbar, container, row, icons
 9. [Landing Page](https://github.com/jinchen-hu/web-development-bootcamp/tree/master/Assignments/9-Landing-Pange)&nbsp;&nbsp;Bootstrap3--thumbnail, navbar, container, row, icons
+10. [Pattern Project](https://github.com/jinchen-hu/web-development-bootcamp/tree/master/Assignments/10-Pattern-Project)&nbsp;&nbsp;Bootstrap4--card, jumbotron, button, grid
