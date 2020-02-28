@@ -1,7 +1,7 @@
 
-# JavaJcript
+# JavaScript
 
-* Javascript is the programming language of html and the web
+* JavaScript is the programming language of html and the web
 * the core of the language
 * client-side supports control of browser and interaction with users, more popular
 * server-side to control interaction with Web server
