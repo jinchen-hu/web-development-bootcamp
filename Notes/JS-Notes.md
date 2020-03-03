@@ -33,6 +33,8 @@
   * usually for testing purpose, using it after an html is loaded, will delete all existing html
 * window.alert(&quot;…&quot;);
   * displays data through an alert box
+* Console.log("...");
+  * displays message to ourselves
 * window.confirm(&quot;…&quot;)
   * used if you want the user to verify or accept something
 * window.prompt(&quot;…&quot;, &quot;…&quot;)
