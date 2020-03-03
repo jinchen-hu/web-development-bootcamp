@@ -1,6 +1,5 @@
 # Exercises
 
-
 ## HTML CSS Bootstrap
 
 1. [HTML-List](https://github.com/jinchen-hu/web-development-bootcamp/blob/master/Exercises/Bootstrap/01-ListAss)&nbsp;&nbsp;Nested lists
