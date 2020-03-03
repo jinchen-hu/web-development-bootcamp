@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form Exercise</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Register</h1>
+        <form>
+            <label>First Name: <input placeholder="John" type="text" required> 
+                Last Name: <input placeholder="Smith" type="text" required>
+            </label> <br>
+            <label name="gender">Male
+                <input type="radio" name="gender" value="female"> Female
+                <input type="radio" name="gender" value="male"> Male
+                <input type="radio" name="gender" value="other"> Other
+            </label><br>
+            <input type="email" name="email" placeholder="your email" required>Email 
+            <input type="password" name="password" placeholder="your password" required title="5 to 10 characters" pattern=".{5,10}">password
+            <br>
+            <label>Birthday:
+                <select name="Month">
+                    <option>Month</option>
+                </select>
+                <select name="Day">
+                    <option>Day</option>
+                </select>
+                <select name="Year">
+                    <option>Year</option>
+                </select>
+            </label><br>
+            I agree to the terms and conditions<input type="checkbox">
+            <br>
+            <button type="submit">Submit</button>
+            
+        </form>
+    </body>
+</html>
