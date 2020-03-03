@@ -1,6 +1,5 @@
 # Exercises
 
----
 
 ## HTML CSS Bootstrap
 
