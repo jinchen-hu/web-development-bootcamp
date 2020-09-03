@@ -221,6 +221,10 @@ JS is not an OOP language
   * find elements by class name
   * return a Nodelist of all elements with the specified name or classname
   * element can be accessed through their node number
+* querySelector("cssSelector");
+  * Return the first element that mathes a given CSS-style selector
+* querySelectorAll("cssSelector");
+  * return a list of elements that matches a given CSS- style selector
 * innerHTML; 
   * the easiest way to get and change the content of an element
 * setAttribut(&quot;attribute&quot;, &quot;newvalue&quot;); 
@@ -259,4 +263,6 @@ nodeValue—specifies the value of a node
 
 ## Event attributes
 
-onclick, onload, onmouseover, onmouseout, onblur,
+onclick, onload, onmouseover, onmouseout, onblur
+
+* element.addEventListener(type, functionToCall);
