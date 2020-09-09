@@ -17,3 +17,5 @@
 #### [Bootstrap_v4](https://getbootstrap.com/)&nbsp;||&nbsp;[v3.3.7](https://getbootstrap.com/docs/3.3/getting-started/#download)
 
 #### [JQuery CDN](https://code.jquery.com/)
+
+#### [UI Gradients](https://uigradients.com/#CoolBlues)
